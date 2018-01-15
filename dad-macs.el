@@ -23,6 +23,7 @@
 ;; A general semi-starter kit
 
 ;;; Code:
+(require 'use-package)
 
 (use-package which-key
     :ensure t
