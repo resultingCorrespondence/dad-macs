@@ -23,7 +23,6 @@
 ;; A general semi-starter kit
 
 ;;; Code:
-(evil-mode)
 (require 'use-package)
 
 (use-package which-key
